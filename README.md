@@ -62,7 +62,7 @@ After installation, pfSense showed the WAN and LAN configuration from the consol
 
 The Windows 10 Client VM was connected to the pfSense LAN network. It received an IP address from pfSense DHCP:
 
-``text
+```text
 Client IP Address: 192.168.1.100
 Default Gateway: 192.168.1.1
 
